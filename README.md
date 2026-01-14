@@ -1,25 +1,25 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=007ACC&height=200&section=header&text=Nasra%20Mohamed&fontSize=70&animation=fadeIn&fontAlignY=35" />
 
-  ### 👋 Asc, Waxaan ahay Nasra! 
-  **Full-Stack Developer | Flutter Enthusiast | Problem Solver**
+  ### 👋 Hello, I'm Nasra! 
+  **Full-Stack Web Developer | Mobile App Developer (Flutter) | Tech Enthusiast**
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=Building+Modern+Web+Apps;Mobile+App+Developer+(Flutter);MERN+Stack+Specialist;Always+Learning+New+Tech)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Flutter+Mobile+Specialist;MERN+Stack+Developer;Passionate+about+UI/UX)](https://git.io/typing-svg)
 </div>
 
 ---
 
-### 💫 In yar oo igu saabsan
-Waxaan ahay horumariye (Developer) aad u jecel dhisidda xalalka dhijitaalka ah ee fududeeya nolosha dadka. Hadday ahaan lahayd mareegaha (Websites) ama abka moobiilka, hadafkaygu waa qurux iyo waxqabad is weheliya.
+### 💫 About Me
+I am a dedicated developer focused on building high-quality digital experiences. I specialize in bridging the gap between elegant design and robust backend logic. Whether it's a web platform or a mobile app, I strive for performance and user-centric solutions.
 
-* 🔭 Waxaan hadda ka shaqeynayaa **Full-Stack Projects**.
-* 🌱 Waxaan baranayaa **Advanced Flutter & Cloud Deployment**.
-* 💬 I weydii wax ku saabsan **React, Node.js, ama Dart**.
-* ⚡ Xaqiiqo xiiso leh: Waxaan aaminsanahay in koodh nadiif ah uu yahay farshaxan.
+* 🔭 **Current Focus:** Developing full-stack enterprise solutions.
+* 🌱 **Learning:** Currently diving deeper into **Cloud Architecture & DevOps**.
+* 💬 **Ask me about:** React, Node.js, Flutter, or Database Management.
+* ⚡ **Fun Fact:** I believe that clean code is just as important as a beautiful UI.
 
 ---
 
-### 🛠️ Tech Stack aan ku kalsoonahay
+### 🛠️ Technical Tech Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -31,18 +31,18 @@ Waxaan ahay horumariye (Developer) aad u jecel dhisidda xalalka dhijitaalka ah e
 
 ---
 
-### 🚀 Mashruucyada ugu muhiimsan
+### 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h4>🍽️ Restaurant Management</h4>
-      <p>Nidaam casri ah oo lagu maamulo dalabaadka iyo menu-yada.</p>
+      <h4>🍽️ Restaurant Management System</h4>
+      <p>A comprehensive system for digital menus, order tracking, and staff management.</p>
       <code>React</code> <code>Node.js</code> <code>MongoDB</code>
     </td>
     <td width="50%">
-      <h4>🛒 eCommerce Portfolio</h4>
-      <p>Bakhaar online ah oo dhameystiran oo leh hab lacag bixinta.</p>
+      <h4>🛒 eCommerce Platform</h4>
+      <p>A feature-rich online store featuring product filtering, cart logic, and secure checkout.</p>
       <code>React</code> <code>Tailwind</code> <code>Express</code>
     </td>
   </tr>
@@ -50,7 +50,7 @@ Waxaan ahay horumariye (Developer) aad u jecel dhisidda xalalka dhijitaalka ah e
 
 ---
 
-### 📊 My GitHub Journey
+### 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NasraMohamed&show_icons=true&theme=tokyonight&count_private=true" alt="Nasra's Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasraMohamed&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
@@ -58,7 +58,7 @@ Waxaan ahay horumariye (Developer) aad u jecel dhisidda xalalka dhijitaalka ah e
 
 ---
 
-### 🤝 Aan xiriirno!
+### 🤝 Let's Connect!
 <p align="left">
   <a href="mailto:nasromaxamedshiiqdoon@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
