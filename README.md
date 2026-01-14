@@ -60,14 +60,14 @@ I am a dedicated developer focused on building high-quality digital experiences.
 
 ### 🤝 Let's Connect!
 <p align="left">
-  <a href="mailto:nasromaxamedshiiqdoon@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/feed/?trk=registration-frontend" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="mailto:nasromaxamedshiiqdoon@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=NasraMohamed&color=007ACC&style=flat-square&label=PROFILE+VIEWS" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=NasraMohamed&color=007ACC&style=flat-square&label=PROFILE+VIEWS" />
   </a>
 </p>
 
