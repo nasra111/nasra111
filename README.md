@@ -7,7 +7,13 @@
 
 ---
 
-## 💻 Tech Stack
+## 🌟 About Me
+I'm a passionate developer who loves building **modern web & mobile applications**.  
+Skilled in **frontend, backend, databases, and mobile development**.  
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <!-- Frontend -->
@@ -36,25 +42,32 @@
 
 ## 🚀 Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🍽️ Restaurant System | Modern and responsive restaurant website & system | React • Tailwind • Node.js • Express • MongoDB |
-| 🛒 eCommerce Portfolio | Complete eCommerce portfolio website | React • Tailwind • Node.js • Express • MongoDB |
+<div align="center">
+
+**🍽️ Restaurant System**  
+A modern and responsive restaurant website & system  
+**Tech Used:** React • Tailwind CSS • Node.js • Express • MongoDB  
+
+**🛒 eCommerce Portfolio**  
+A complete eCommerce portfolio website  
+**Tech Used:** React • Tailwind CSS • Node.js • Express • MongoDB  
+
+</div>
 
 ---
 
 ## 🌐 Portfolio
-🔗 [My Portfolio](#) <!-- Add live link -->
+🔗 [My Portfolio](#) <!-- add your live portfolio link -->
 
 ---
 
 ## 📫 Contact Me
-📧 Email: **nasromaxamedshiiqdoon@gmail.com**
+📧 Email: **nasromaxamedshiiqdoon@gmail.com**  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NasraMohamed&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasraMohamed&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NasraMohamed&show_icons=true&theme=blue" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasraMohamed&layout=compact&theme=blue" alt="Top Languages" />
 </p>
